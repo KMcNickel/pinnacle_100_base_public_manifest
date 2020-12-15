@@ -1,3 +1,5 @@
+# The following readme has not been updated... This is a Pinnacle 100 Basic setup manifest to be used as a framework for other projects
+
 # Pinnacle 100 Out of Box Demo (OOB Demo) Manifest Repo
 
 ## Using the OOB Demo
