@@ -14,7 +14,7 @@ manifest:
   projects:
     - name: Pinnacle_100_base
       path: oob_demo
-      revision: v3.0.0
+      revision: v1.0
       remote: KMcNickel
     - name: sdk-nrf
       path: nrf
