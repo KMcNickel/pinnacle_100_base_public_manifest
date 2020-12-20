@@ -1,7 +1,5 @@
 manifest:
   remotes:
-    - name: JsmnRepo
-      url-base: https://github.com/zserge
     - name: LairdCP
       url-base: https://github.com/LairdCP
     - name: KMcNickel
@@ -13,8 +11,8 @@ manifest:
   # These dependencies may need updating if new features are added to the firmware.
   projects:
     - name: Pinnacle_100_base
-      path: oob_demo
-      revision: v1.0
+      path: pinnacle_100_base
+      revision: main
       remote: KMcNickel
     - name: sdk-nrf
       path: nrf
